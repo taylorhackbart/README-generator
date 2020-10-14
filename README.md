@@ -10,9 +10,8 @@
 
   *[Usage](#usage)
 
-  *[License](#license)
-  
-* [license] (#license)
+  *
+*[license](#license)
     
 
   *[Contributing](#contributing)
