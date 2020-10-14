@@ -1,8 +1,8 @@
-# ad
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# README.md Generator
+  ![GitHub license](https://img.shields.io/badge/license-BSD 3-blue.svg)
   ## Description
 
-  asdas
+  Homework 7
 
   ## Table of Contents
 
@@ -24,27 +24,27 @@
   ## Installation
 
   To install necessary dependencies, run the following command:
-  da
+  Install node, inqiurer and path
 
   ## Usage
 
-  das
+  Must have node and inquirer installed 
 
   ## License
     
-    This project is licensed under the MIT license.
+    This project is licensed under the BSD 3 license.
 
   ## Contributing
-  sdas
+  Taylor Hackbart, Tyler Bolty
 
   ## Tests
 
   To run tests, run the following command:
-  asd
+  npm
 
   ## Questions
 
-  If you have any questions about the repo, contact me directly at asd.
-  You can find more of my work at [ads](https://github/com/ads).
+  If you have any questions about the repo, contact me directly at taylor.hackbart@gmail.com.
+  You can find more of my work at [taylor hackbart](https://github/com/taylor hackbart).
  
   
