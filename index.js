@@ -1,5 +1,4 @@
-// Title, Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-
+// Installing required packages
 var inquirer = require("inquirer");
 var fs = require("fs");
 var generateMarkdown = require("./utils/generateMarkdown");
@@ -46,7 +45,7 @@ const questions = [
     type : "list",
     message : "What type of license should your project have?",
     name : "license",
-    choices : ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "none"]
+    choices : ["MIT", "APACHE2.0", "GPL3.0", "BSD3", "none"]
     },
     {
     type: "input",
