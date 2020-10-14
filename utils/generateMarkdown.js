@@ -14,7 +14,7 @@ function renderLicenseBadge (license){
 }
 function renderLicenseLink (license){
   if (license !== "none"){
-    return (`\n*[license](#license)
+    return (`\n*[License](#license)
     `)
   } return "";
 }
@@ -59,8 +59,6 @@ function generateMarkdown(response) {
   ## Usage
 
   ${response.usage}
-
-  ## License
 
   ${renderLicenseSection(response.license)}
 
