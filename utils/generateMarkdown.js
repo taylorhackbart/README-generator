@@ -72,8 +72,8 @@ function generateMarkdown(response) {
 
   ## Questions
 
-  If you have any questions about the repo, contact me directly at ${response.email}
-  You can find more of my work at [${response.github}](https://github/com/${response.github})
+  If you have any questions about the repo, contact me directly at ${response.email}.
+  You can find more of my work at [${response.github}](https://github/com/${response.github}).
  
   `;
 }
