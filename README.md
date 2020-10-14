@@ -44,7 +44,7 @@
 
   ## Questions
 
-  If you have any questions about the repo, contact me directly at 
-  You can find more of my work at [](https://github/com/)
+  If you have any questions about the repo, contact me directly at .
+  You can find more of my work at [](https://github/com/).
  
   
