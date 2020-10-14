@@ -28,8 +28,19 @@ const questions = [
     },
     {
     type : "input",
+    message : "Provide brief instructions for installation",
+    name : "installation",
+    },
+
+    {
+    type : "input",
     message : "Provide a list of contributors for this project",
     name : "contributing",
+    },
+    {
+    type : "input",
+    message : "Provide instructions for usage",
+    name : "usage",
     },
     {
     type : "list",
@@ -53,7 +64,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then(response => {
     
-        writeToFile("README.md", generateMarkdown(response));
+        writeToFile("sample.md", generateMarkdown(response));
     })
 }
 
