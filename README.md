@@ -1,8 +1,8 @@
-# tay
+# 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
 
-  tay
+  
 
   ## Table of Contents
 
@@ -10,8 +10,8 @@
 
   *[Usage](#usage)
 
-  *
-*[license](#license)
+  
+*[License](#license)
     
 
   *[Contributing](#contributing)
@@ -31,22 +31,20 @@
   undefined
 
   ## License
-
-  ## License
     
     This project is licensed under the MIT license.
 
   ## Contributing
-  tay
+  
 
   ## Tests
 
   To run tests, run the following command:
-  tay
+  
 
   ## Questions
 
-  If you have any questions about the repo, contact me directly at tay
-  You can find more of my work at [tay](https://github/com/tay)
+  If you have any questions about the repo, contact me directly at 
+  You can find more of my work at [](https://github/com/)
  
   
