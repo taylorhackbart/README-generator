@@ -1,8 +1,8 @@
-# d
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# README.md Generator
+  ![GitHub license](https://img.shields.io/badge/license-GPL3.0-blue.svg)
   ## Description
 
-  d
+  Homework 7
 
   ## Table of Contents
 
@@ -25,18 +25,18 @@
   ## Installation
 
   To install necessary dependencies, run the following command:
-  d
+  npm install
 
   ## Usage
 
-  d
+  NA
 
   ## License
     
-    This project is licensed under the MIT license.
+    This project is licensed under the GPL3.0 license.
 
   ## Contributing
-  d
+  Taylor Hackbart
 
   ## Tests
 
@@ -45,7 +45,7 @@
 
   ## Questions
 
-  If you have any questions about the repo, contact me directly at d.
-  You can find more of my work at [d](https://github/com/d).
+  If you have any questions about the repo, contact me directly at taylor.hackbart@gmail.com.
+  You can find more of my work at [taylorhackbart](https://github/com/taylorhackbart).
  
   
