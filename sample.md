@@ -1,38 +1,38 @@
 # README.md Generator
-  ![GitHub license](https://img.shields.io/badge/license-BSD3-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-APACHE2.0-blue.svg)
   ## Description
 
   Homework 7
 
   ## Table of Contents
 
-  *[Installation](#installation)
+  * [Installation](#installation)
 
-  *[Usage](#usage)
+  * [Usage](#usage)
 
   
-*[License](#license)
+* [License](#license)
     
 
-  *[Contributing](#contributing)
+  * [Contributing](#contributing)
 
-  *[Questions](#questions)
+  * [Questions](#questions)
 
-  *[Tests](#tests)
+  * [Tests](#tests)
 
 
   ## Installation
 
   To install necessary dependencies, run the following command:
-  run npm install, and install inquirer and path.
+  npm install
 
   ## Usage
 
-  must install inqiurer and path
+  NA
 
   ## License
     
-    This project is licensed under the BSD3 license.
+    This project is licensed under the APACHE2.0 license.
 
   ## Contributing
   Taylor Hackbart
@@ -40,11 +40,11 @@
   ## Tests
 
   To run tests, run the following command:
-  npm
+  npm run test
 
   ## Questions
 
   If you have any questions about the repo, contact me directly at taylor.hackbart@gmail.com.
-  You can find more of my work at [taylorhackbart](https://github/com/taylorhackbart).
+  You can find more of my work at [TaylorHackbart](https://github/com/TaylorHackbart).
  
   
