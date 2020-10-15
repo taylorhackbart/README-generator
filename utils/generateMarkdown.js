@@ -8,7 +8,7 @@ function renderLicenseBadge (license){
 //generating link from table of contents to content
 function renderLicenseLink (license){
   if (license !== "none"){
-    return (  `\n*[License](#license)
+    return (  `\n* [License](#license)
     `)
   } return "";
 }
@@ -31,17 +31,17 @@ function generateMarkdown(response) {
 
   ## Table of Contents
 
-  *[Installation](#installation)
+  * [Installation](#installation)
 
-  *[Usage](#usage)
+  * [Usage](#usage)
 
   ${renderLicenseLink(response.license)}
 
-  *[Contributing](#contributing)
+  * [Contributing](#contributing)
 
-  *[Questions](#questions)
+  * [Questions](#questions)
 
-  *[Tests](#tests)
+  * [Tests](#tests)
 
 
   ## Installation

@@ -29,6 +29,7 @@ const questions = [
     type : "input",
     message : "Provide brief instructions for installation",
     name : "installation",
+    default : "npm install",
     },
 
     {
@@ -51,6 +52,7 @@ const questions = [
     type: "input",
     message: "Enter command to run tests:",
     name: "tests",
+    default: "npm run test"
     }
 ];
 
