@@ -8,7 +8,7 @@ function renderLicenseBadge (license){
 //generating link from table of contents to content
 function renderLicenseLink (license){
   if (license !== "none"){
-    return (  `\n* [License](#license)
+    return (  `\n * [License](#license) \n
     `)
   } return "";
 }

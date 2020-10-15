@@ -1,8 +1,8 @@
-# README.md Generator
-  ![GitHub license](https://img.shields.io/badge/license-APACHE2.0-blue.svg)
+# d
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
 
-  Homework 7
+  d
 
   ## Table of Contents
 
@@ -11,7 +11,8 @@
   * [Usage](#usage)
 
   
-* [License](#license)
+ * [License](#license) 
+
     
 
   * [Contributing](#contributing)
@@ -24,18 +25,18 @@
   ## Installation
 
   To install necessary dependencies, run the following command:
-  npm install
+  d
 
   ## Usage
 
-  NA
+  d
 
   ## License
     
-    This project is licensed under the APACHE2.0 license.
+    This project is licensed under the MIT license.
 
   ## Contributing
-  Taylor Hackbart
+  d
 
   ## Tests
 
@@ -44,7 +45,7 @@
 
   ## Questions
 
-  If you have any questions about the repo, contact me directly at taylor.hackbart@gmail.com.
-  You can find more of my work at [TaylorHackbart](https://github/com/TaylorHackbart).
+  If you have any questions about the repo, contact me directly at d.
+  You can find more of my work at [d](https://github/com/d).
  
   
