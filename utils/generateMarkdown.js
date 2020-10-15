@@ -1,23 +1,18 @@
-//ask all the questions
-//start generating the readme file
-    //loop process 
-    //what item of the readme am i writing rn
-    // (subhead, link etc)
-//call that function and pass in the data it needs, and get back markdown code
-//add markdown code to the readme file
-
 // function to generate markdown for README
+//generating the license badge
 function renderLicenseBadge (license){
   if (license !== "none"){
     return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`
   } return "";
 }
+//generating link from table of contents to content
 function renderLicenseLink (license){
   if (license !== "none"){
     return (  `\n*[License](#license)
     `)
   } return "";
 }
+//generating license function to appear on the page if they say yes
 function renderLicenseSection(license){
   if (license !== "none"){
     return (`## License
@@ -28,8 +23,6 @@ function renderLicenseSection(license){
 
 
 function generateMarkdown(response) {
-
-
   return `# ${response.title}
   ${renderLicenseBadge(response.license)}
   ## Description

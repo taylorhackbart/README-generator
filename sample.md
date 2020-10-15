@@ -1,8 +1,8 @@
-# sa
-  ![GitHub license](https://img.shields.io/badge/license-APACHE2.0-blue.svg)
+# README.md Generator
+  ![GitHub license](https://img.shields.io/badge/license-BSD3-blue.svg)
   ## Description
 
-  das
+  Homework 7
 
   ## Table of Contents
 
@@ -24,23 +24,23 @@
   ## Installation
 
   To install necessary dependencies, run the following command:
-  d
+  run npm install, and install inquirer and path.
 
   ## Usage
 
-  d
+  must install inqiurer and path
 
   ## License
     
-    This project is licensed under the APACHE2.0 license.
+    This project is licensed under the BSD3 license.
 
   ## Contributing
-  d
+  Taylor Hackbart
 
   ## Tests
 
   To run tests, run the following command:
-  d
+  npm
 
   ## Questions
 
