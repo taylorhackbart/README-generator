@@ -1,5 +1,5 @@
 # README.md Generator
-  ![GitHub license](https://img.shields.io/badge/license-GPL3.0-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
 
   Homework 7
@@ -29,14 +29,14 @@
 
   ## Usage
 
-  NA
+  npm
 
   ## License
     
-    This project is licensed under the GPL3.0 license.
+    This project is licensed under the MIT license.
 
   ## Contributing
-  Taylor Hackbart
+  Taylor
 
   ## Tests
 
