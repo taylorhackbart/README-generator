@@ -6,8 +6,7 @@ This homework was to generate a README.md file from JavaScript files using Node.
 ## Usage 
 To use this, you must run npm install, npm install inquirer and npm install path. Once this is complete, typing in "node index.js" will begin the prompted questions in your terminal.
 
-If you'd like a step by step video tutorial:
-<iframe src="https://drive.google.com/file/d/1BbOsxe54nK7vO9HVTnWh8iVzoh0RAZ9H/preview" width="640" height="480"></iframe>
+If you'd like a step by step video tutorial, click<a href="https://drive.google.com/file/d/1BbOsxe54nK7vO9HVTnWh8iVzoh0RAZ9H/view?usp=sharing"> here </a>
 
 The questions will pop up in your terminal:
 <img src= "https://github.com/taylorhackbart/README-generator/blob/master/images/terminal.png">
